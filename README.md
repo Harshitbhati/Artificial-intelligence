@@ -1,4 +1,4 @@
-# Artificial-intelligence
+# Artificial-intelligence index.html
 <!DOCTYPE html>
 <html>
 <head>
